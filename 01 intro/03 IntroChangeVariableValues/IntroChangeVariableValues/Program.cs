@@ -31,7 +31,7 @@ namespace IntroChangeVariableValues
             //nu gaan we de waarden instellen voor luigi, gebruik andere waardes
 
             characterName = ???;
-            currentTime = ???;
+            currentTime = ???;//zoek op hoe je de huidige tijd kan krijgen (DateTime.???)
             myFavoriteCity = ???; //geef hier myFavoriteCity een waarde 
             myFavoriteNumber = ???; //geef hier myFavoriteNumber een waarde 
             displayNumber = ???; //zet displayNumber op false

@@ -26,9 +26,15 @@ je begint bij de 01 .... directory
 #### Maak de opdrachten
 
 - maak nu de opdrachten
+- BUILD en RUN je opdrachten!
+    - controlleer altijd of je code werkt
 
 #### GIT
 
 als je een opdracht af hebt:
 - commit naar je github voor dit vak!
     > (commit & push)
+
+## klaar?
+
+- commit & push naar je git!

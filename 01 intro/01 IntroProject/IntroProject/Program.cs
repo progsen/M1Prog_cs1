@@ -3,7 +3,7 @@ namespace IntroProject
 {
     internal class Program
     {
-        int myDisplayName;
+        string myDisplayName;
         int myAge;
         static void Main(string[] args)
         {

@@ -3,8 +3,8 @@ namespace IntroForm
     public partial class Form1 : Form
     {
         //ken waardes toe aan de variabelen (assignement (=))
-        int x = ???;
-        int y = ???;
+        int x = ???;// iets van tussen de 50 en 300
+        int y = ???;// iets van tussen de 50 en 300
         string introSentence = ???;
         public Form1()
         {
