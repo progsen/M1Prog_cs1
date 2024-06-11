@@ -1,0 +1,3 @@
+waardes toekennen aan variabelen
+
+opvragen van waardes uit variabelen
