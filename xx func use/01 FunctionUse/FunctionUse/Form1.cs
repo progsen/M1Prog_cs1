@@ -29,8 +29,8 @@ namespace FunctionUse
 
             //we gaan nu een driehoek maken:
 
-            g.DrawLine(lijnkleur, 50, 50, 100, 50);
-            g.DrawLine(lijnkleur, 100, 50, 100, 0);
+            g.DrawLine(lijnkleur, 150, 50, 100, 0);
+            g.DrawLine(lijnkleur, 100, 0, 50, 50);
             g.??? //maak de driehoek af door nog een lijn tekenen
 
             //zoek nu zelf uit hoe je een circle tekent 
