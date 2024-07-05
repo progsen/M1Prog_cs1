@@ -9,6 +9,10 @@ namespace RpgBattle
         {
             InitializeComponent();
             monsterhealth.Text=monsterHealth.ToString();
+            playerchar.BackgroundImage = Bitmap.FromFile("wizard.PNG");
+            playerchar.BackgroundImageLayout = ImageLayout.Zoom;
+            monster.BackgroundImage = Bitmap.FromFile("goblin.PNG");
+            monster.BackgroundImageLayout = ImageLayout.Zoom;
         }
 		//1)
 		???
@@ -16,11 +20,13 @@ namespace RpgBattle
 		//- DoDamage, 
 		//- met 1 argument: (int damage), 
 		//- maak de function private, 
-		- met void als returntype
-//2) zet de code hieronder tussen de {} (de body of scope van de function)
+		// - met void als returntype
+		
+		
+		//2) zet de code hieronder tussen de {} (de body of scope van de function)
 
-//monsterHealth -= damage;
-// monsterhealth.Text = monsterHealth.ToString();
+		//monsterHealth -= damage;
+		// monsterhealth.Text = monsterHealth.ToString();
 
 
         private void attack_Click(object sender, EventArgs e)

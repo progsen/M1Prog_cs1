@@ -19,11 +19,11 @@ namespace FunctionUse
 
             g.DrawRectangle(lijnkleur, 0, 0, 50, 50);
 
-            //gebruik nu de FillRectangle function
-            // maak een vierkant  op 60,60 van 30 bij 30
+            // 1) gebruik nu de FillRectangle function
+            //dit maak een vierkant  op 60,60 van 30 bij 30
             g.??? (vulKleur, 60, 60, 30, 30);
 
-            //maak nu zelf nog een vierkant, kies zelf waar en hoegroot
+            // 2) maak nu zelf nog een vierkant, kies zelf waar en hoe groot
             g.???
 
 
@@ -31,9 +31,10 @@ namespace FunctionUse
 
             g.DrawLine(lijnkleur, 150, 50, 100, 0);
             g.DrawLine(lijnkleur, 100, 0, 50, 50);
-            g.??? //maak de driehoek af door nog een lijn tekenen
 
-            //zoek nu zelf uit hoe je een circle tekent 
+            g.??? //3) maak de driehoek af door nog een lijn tekenen
+
+            //4) zoek nu zelf uit hoe je een circle tekent 
             ????
         }
     }
