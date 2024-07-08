@@ -1,9 +1,13 @@
 ## tijd voor opdrachten
 
+- lees deze uitleg: 
+```
 We gaan nu oefenen met C#, programmeren is vooral `DOEN`.
 Hieronder lees je hoe we gaan oefenen
-
+```
 #### uitleg
+
+- lees de uitleg hieronder: 
 
 Hoe maak je deze opdrachten?
 
