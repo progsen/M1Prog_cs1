@@ -4,7 +4,8 @@ namespace UpAndDown
 {
     internal class Square
     {
-        public byte x, y;
+        //1) maak van int een byte
+        public int x, y;
         internal Brush color = Brushes.Red;
 
     }

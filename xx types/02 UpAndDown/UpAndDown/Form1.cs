@@ -33,8 +33,8 @@ namespace UpAndDown
             InitializeComponent();
             DoubleBuffered = true;
 
-            player.x = (byte)level.playerStart.X;
-            player.y = (byte)level.playerStart.X;
+            player.x = size*3;
+            player.y = size;
         }
 
         protected override void OnPaint(PaintEventArgs e)
@@ -57,6 +57,8 @@ namespace UpAndDown
 
         public void DoLogic(float frametime)
         {
+			//2) Zoek uit waarom de speler weer naar boven gaat, zet de reden hieronder achter de  //> neer
+			//>
             player.y += 5;
         }
     }
