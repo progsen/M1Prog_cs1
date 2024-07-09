@@ -69,6 +69,8 @@ de speler moet de coins kunnen pakken en binnen het scherm blijven
 - zie je de snelheid van de speler en de coins?
     - dat zijn harde waardes... niet echt mooi
         - verander dat zodat het variabelen worden die bovenaan bij score staan
+
+- probeer de score hoger te laten worden als de afstand tot de speler groter is
 ## klaar
 
 - commit & push naar je github        
