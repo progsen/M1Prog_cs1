@@ -113,7 +113,7 @@ namespace SelectYourPower
         {
             for (int i = pickups.Count - 1; i >= 0; i--)
             {
-                //4) maak dit af, zorg dat je de huidige pickup Square pakt uit pickups, gebruik i
+                //5) maak dit af, zorg dat je de huidige pickup Square pakt uit pickups, gebruik i
                 Square pickup = ???;
                 pickup.x += -playerSpeed * frametime;
                 if (pickup.x < player.x + player.h)//picked up by player 
