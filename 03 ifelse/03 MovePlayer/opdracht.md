@@ -19,7 +19,8 @@
 
 - zoek:
     - //0)
-        - zie je die booleans? die worden op true of false gezet als je WSAD indrukt
+        - zie je die booleans? die worden op true of false gezet als je W,S,A,D indrukt
+            - zoek dat stuk zelf in de code
 
     - // 1)  
         - zorg ervoor dat je TEST (if) of de speler een richting in moet bewegen 

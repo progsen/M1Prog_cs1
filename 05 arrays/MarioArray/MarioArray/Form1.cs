@@ -12,7 +12,8 @@ namespace MarioArray
         Point mario1 = new Point(50, 50);
 		
 		
-		//1) maak hieronder de array af
+		//1) vervang de ??? door het type wat daar nodig is
+        // > hint: kijk wat er in hoort te zitten, dat kan je zien!
         ??? otherMarios = new ???[] {
             new Point(100,100)
 			//2) zet hier nog 4 andere marios neer
@@ -43,6 +44,7 @@ namespace MarioArray
             for (int i = 0; i < otherMarios.Length; i++)
             {
                 g.DrawImage(image, new Rectangle(otherMarios[i].X, otherMarios[i].Y, spriteSize, spriteSize),frame, GraphicsUnit.Pixel);
+
             }
         }
     }
