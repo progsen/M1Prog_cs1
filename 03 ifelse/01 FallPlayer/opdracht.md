@@ -7,6 +7,7 @@
 We hebben nu een game waar de speler valt, maar door de vloer gaat!
 dat kunnen we met een IF tegenhouden
 ```
+> ![](img/fallplayer.GIF)
 
 - open de solution `FallPlayer.sln`
 

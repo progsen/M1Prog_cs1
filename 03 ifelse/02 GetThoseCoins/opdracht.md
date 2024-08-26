@@ -7,6 +7,7 @@
 We hebben nu een game waar de speler valt en waar coins komen
 de speler moet de coins kunnen pakken en binnen het scherm blijven
 ```
+> ![](img/getthosecoins.GIF)
 
 - open de solution `GetThoseCoins.sln`
 

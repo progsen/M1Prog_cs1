@@ -36,6 +36,7 @@
 - druk op de W,S,A,D toetsen en beweeg de speler
     - de speler beweegt
     > ![](img/beweeg.PNG)
+    > ![](img/moveplayer.GIF)
 
 ## klaar
 

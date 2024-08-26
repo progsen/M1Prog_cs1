@@ -5,7 +5,7 @@ namespace MovePlayer
     {
         private const int size = 16;
         Square player = new Square();
-        float playerSpeed = 10;
+        float playerSpeed = 100;
         //0)
         bool left, right, down, up;
 
@@ -71,7 +71,7 @@ namespace MovePlayer
 
 
             g.Clear(Color.Black);
-            g.FillRectangle(player.color, player.x * size, player.y * size, size, size);
+            g.FillRectangle(player.color, player.x , player.y , size, size);
         }
 
         internal void DoLogic(float frametime)
