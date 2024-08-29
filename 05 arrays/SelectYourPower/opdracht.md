@@ -60,18 +60,6 @@
         - de gele rechthoek verdwijnt
         > ![](img/start.PNG)
 
-## 2)
-
-- open `Form1.cs`
-- zoek:
-    - // 2)
-- blijf Move calls toevoegen totdat:
-    - de speler bij het einde komt 
-        - dat is het vakje waar de 'E' staat 
-    > ![](img/E.PNG)
-- test het!
-    - als je winner te zien krijgt ben je klaar!
-    > ![](img/win.PNG)
 
 ## klaar
 

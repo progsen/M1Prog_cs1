@@ -24,11 +24,11 @@ We gaan nu een applicatie maken waar je op kaarten kan clicken om ze om te draai
 
 ## 2)
 - zoek:
-    -  //2) pak hier 1 card uit cards, die van [i]
+    - //2) pak hier 1 card uit cards, die van [i]
 
 ## 3)
 - zoek:
-    -   //3) maak een if die kijkt of de muis X en Y in card.placement zit
+    - //3) maak een if die kijkt of de muis X en Y in card.placement zit
         > HINTS: 
         > - https://learn.microsoft.com/en-us/dotnet/api/system.drawing.rectangle.contains?view=net-8.0
         > - https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.mouseeventargs?view=windowsdesktop-8.0
@@ -39,7 +39,7 @@ We gaan nu een applicatie maken waar je op kaarten kan clicken om ze om te draai
  
 ## 5)
 - zoek:
-     -  //5) geef hier de card die in [i] zit door op de ????
+    - //5) geef hier de card die in [i] zit door op de ????
 
 ## klaar
 
