@@ -5,6 +5,20 @@
 We gaan nu oefenen met C#, programmeren is vooral `DOEN`.
 Hieronder lees je hoe we gaan oefenen
 ```
+
+#### Voorbereiden 
+
+- ga naar:
+    https://github.com/progsen/M1Prog_cs1/tree/main
+- click op de groene knop
+    > ![](img/codeknop.PNG)
+- click op download zip
+    > ![](img/downzip.PNG)
+
+- pak de zip uit
+    - nu kan je bij de solutions zoals `IntroProject.sln`
+
+
 #### uitleg
 
 - lees de uitleg hieronder: 
