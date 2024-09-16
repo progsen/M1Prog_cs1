@@ -48,7 +48,7 @@ namespace IntroChangeVariableValues
             if (displayNumber)
             {
                 Console.WriteLine("my favorite number is:");
-                Console.WriteLine(displayNumber);
+                Console.WriteLine(myFavoriteNumber);
             }
         }
     }
