@@ -20,7 +20,7 @@ Als de speler uit het scherm loopt willen we dat die aan de andere kant weer ver
 
 ## 1)
 
-- open `Form1.cs`
+- open `Square.cs`
 - zoek:
     - //1) 
         -  maak van int een byte
