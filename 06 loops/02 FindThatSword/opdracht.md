@@ -24,7 +24,6 @@ We gaan nu kijken of we 1 item kunnen vinden in een array
 - zoek:
     - //2) haal hier het item op [i] op, zie MenuDraw als je het even niet weet
         > HINT je moet iets op de ???? zetten ```Equipment item = ????;```
-                if ()//3) test hier of item.type GELIJK is aan EquipmentType.Sword
     
 ## 3)
 
