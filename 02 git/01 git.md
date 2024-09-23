@@ -22,39 +22,34 @@
 
 - click op de copy knop
     > ![](img/copy.PNG)
-- open visual studio code, en ga naar source control 
-
-    > ![](img/source.PNG)
-    - hint:
-    > zorg dat alles gesloten is en je geen folder geopend hebt!
-
+- open visual studio 2022,
+    - click op clone
+> ![](img/2022clone.PNG)
+- plak de url 
+- en selecteer je  ma/.../M1Prog directory
+> ![](img/invul.PNG)
 - click op clone
-> ![](img/clone.PNG)
-- plak de url
-> ![](img/url.PNG)
-
-- selecteer je  ma/.../M1Prog directory
-
-- visual studio gaat clone, laat visual studio het openen
-
 
 ## vullen
 
 - zet de opdrachten nu in die folder
     > ![](img/folder.PNG)
-- ga naar source control
-    > ![](img/source.PNG)
+- ga naar git changes 
+    > ![](img/gitchanges.PNG)
 
 ## commit
 
 - nu zie je zo iets:
     > ![](img/commit.PNG)
 - click op de +
+    > ![](img/plus.PNG)
+
 - vul een message in bv: 
     - first checking
 - click op commit
-- daarna op sync
-    > ![](img/sync.PNG)
+    > ![](img/commit2022.PNG)
+- daarna op spushync
+    > ![](img/push2022.PNG)
     
 ## checken
 
