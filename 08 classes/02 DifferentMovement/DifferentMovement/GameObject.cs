@@ -3,7 +3,7 @@
 
 using System.Numerics;
 
-namespace SelectYourPower
+namespace DifferentMovement
 {
     internal class GameObject
     {

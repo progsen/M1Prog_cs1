@@ -19,7 +19,6 @@ alleen we kunnen het totaal nog niet berekenen
 - run de application:
     > ![](img/app.PNG)
 
-
 ## 1)
 
          

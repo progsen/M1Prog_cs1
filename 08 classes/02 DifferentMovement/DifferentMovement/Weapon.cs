@@ -1,4 +1,4 @@
-﻿namespace SelectYourPower
+﻿namespace DifferentMovement
 {
     internal class Weapon
     {

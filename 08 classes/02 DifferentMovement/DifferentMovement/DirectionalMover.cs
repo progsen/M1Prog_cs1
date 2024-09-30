@@ -1,4 +1,4 @@
-﻿namespace SelectYourPower
+﻿namespace DifferentMovement
 {
     class DirectionalMover : IBulletMover
     {

@@ -1,6 +1,6 @@
 
 
-namespace SelectYourPower
+namespace DifferentMovement
 {
     internal class GameRect
     {

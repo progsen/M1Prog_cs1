@@ -1,4 +1,4 @@
-﻿namespace SelectYourPower
+﻿namespace DifferentMovement
 {
     partial class Form1
     {

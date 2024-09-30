@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 
-namespace SelectYourPower
+namespace DifferentMovement
 {
     public partial class Form1 : Form
     {
