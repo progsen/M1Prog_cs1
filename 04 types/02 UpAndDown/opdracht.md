@@ -24,7 +24,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types
 
 ## 1)
 
-- open `Form1.cs`
+- open `Square.cs`
 - zoek:
     - //1) 
         -  maak van int een byte
