@@ -32,12 +32,12 @@ namespace SquareCommand
             DoubleBuffered = true;
 
             KeyDown += Form1_KeyDown;
-            player.x = level.playerStart.X;
-            player.y = level.playerStart.Y;
+            player.ix = level.playerStart.X;
+            player.iy = level.playerStart.Y;
 
             endGoal.color = Brushes.Yellow;
-            endGoal.x = level.goal.X;
-            endGoal.y = level.goal.Y;
+            endGoal.ix = level.goal.X;
+            endGoal.iy = level.goal.Y;
 
             // 1) vervang de ???? met 1 van de 4 Move functions van player
             // voorbeeld: player.MoveRight(level)
@@ -58,15 +58,15 @@ namespace SquareCommand
             {
                 return;
             }
-                if (e.KeyCode == Keys.Space)
+            if (e.KeyCode == Keys.Space)
             {
                 if (step < steps.Length)
                 {
                     steps[step]();
                     step++;
-                    if (player.x == endGoal.x && player.y == endGoal.y)
+                    if (player.ix == endGoal.ix && player.iy == endGoal.iy)
                     {
-                        done= true;
+                        done = true;
                     }
 
                 }
@@ -83,11 +83,11 @@ namespace SquareCommand
             {
                 foreach (Tile tile in row)
                 {
-                    e.Graphics.FillRectangle(tile.color, tile.x * size, tile.y * size, size, size);
+                    e.Graphics.FillRectangle(tile.color, tile.ix * size, tile.iy * size, size, size);
                 }
 
-                e.Graphics.FillRectangle(player.color, player.x * size, player.y * size, size, size);
-                e.Graphics.FillRectangle(endGoal.color, endGoal.x * size, endGoal.y * size, size, size);
+                e.Graphics.FillRectangle(player.color, player.ix*size , player.iy * size, size, size);
+                e.Graphics.FillRectangle(endGoal.color, endGoal.ix * size, endGoal.iy * size, size, size);
 
             }
             if (done)
