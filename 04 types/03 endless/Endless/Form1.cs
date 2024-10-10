@@ -45,22 +45,7 @@ namespace Endless
 
         private void Form1_KeyUp(object? sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.W)
-            {
-                up = false;
-            }
-            if (e.KeyCode == Keys.S)
-            {
-                down = false;
-            }
-            if (e.KeyCode == Keys.A)
-            {
-                left = false;
-            }
-            if (e.KeyCode == Keys.D)
-            {
-                right = false;
-            }
+            //maak hier hetzelfde als in Form1_KeyDown maar zet dan de up,down,left,right op false
         }
 
         private void Form1_KeyDown(object? sender, KeyEventArgs e)
