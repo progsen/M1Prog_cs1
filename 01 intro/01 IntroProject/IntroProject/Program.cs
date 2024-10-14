@@ -14,7 +14,7 @@ namespace IntroProject
 
         internal Program()
         {
-            //ken waardes toe aan de variabelen (assignement (=))
+            //1) ken waardes toe aan de variabelen (assignement (=))
             myDisplayName =???;
             myAge = ???;//hier stellen we de leeftijd in
         }
@@ -24,9 +24,9 @@ namespace IntroProject
             Console.WriteLine("hello!, let me introduce myself");
             Console.WriteLine("i'm "+ myDisplayName);
 
-            //vraag de waarde van myAge waar de vraagtekens staan
+            //2) vraag de waarde van myAge waar de vraagtekens staan
             string myAgeSentance = "i'm " + ??? +" years old";
-            Console.WriteLine(???);//gebruik hier myAgeSentance 
+            Console.WriteLine(???);//3) gebruik hier myAgeSentance 
 
         }
     }

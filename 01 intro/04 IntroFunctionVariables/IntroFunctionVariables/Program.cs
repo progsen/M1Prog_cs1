@@ -18,11 +18,11 @@ namespace IntroChangeVariableValues
 
         private void ShowIntroMessage(
             string ???, //1) verzin hier een naam voor deze string variable
-            ??? enterAmountToExit)
+            ??? enterAmountToExit)//2) vervang de ??? met int
         {
-            Console.WriteLine(???);//gebruik hier je verzonnen naam van 1) 
+            Console.WriteLine(???);//3) gebruik hier je verzonnen naam van 1) 
 
-            //2) zet hieronder enterAmountToExit op de ???
+            //4) zet hieronder enterAmountToExit op de ???
             Console.WriteLine("druk nu "+ ???+ " keer op enter om te stoppen");
        
             for(int i = 0;i < enterAmountToExit; i++)
