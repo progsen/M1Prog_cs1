@@ -1,48 +1,31 @@
 
 
-## squarecommand
+## NextRoom
 
-> we gaan nu een speler object besturen via functions
+> we gaan nu een nieuw random level laden uit een array van levels
 
-- open de solution `SquareCommand.sln`
-
-- zoek de kopjes in de code
+- open de solution `NextRoom.sln`
 
 
 ## 1)
-- bekijk Square.cs
-    - lees de 4 Move... functions
 
 - open `Form1.cs` (rechter muis -> view code)
 - zoek:
-    - // 1)
-- vervang beide ???? met 1 van de 4 Move functions van player
-
-> voorbeeld: 
-> ()=>???? wordt
-> ()=> player.MoveRight(level)
-
-## testen
-
-- start de applicatie op
-- je ziet nu dit:
-> ![](img/level.PNG)
-- druk op spatie
-    - de speler beweegt
-    > ![](img/beweeg.PNG)
+    - //1)  pak een getal van 0 tot de lengte van de array, gebruik de random hierboven
 
 ## 2)
 
 - open `Form1.cs` (rechter muis -> view code)
 - zoek:
-    - // 2)
-- blijf Move calls toevoegen totdat:
-    - de speler bij het einde komt 
-        - dat is het vakje waar de 'E' staat 
-    > ![](img/E.PNG)
-- test het!
-    - als je winner te zien krijgt ben je klaar!
-    > ![](img/win.PNG)
+    - //2) gebruik het random getal om een level uit de levels te pakken
+        > HINT sla het getal in een nieuwe variable op
+
+## 3)
+
+- open `Form1.cs` (rechter muis -> view code)
+- zoek:
+    - //3) zet current op het level wat op de index zit van het getal uit 2)
+        - pas de code aan
 
 ## klaar
 

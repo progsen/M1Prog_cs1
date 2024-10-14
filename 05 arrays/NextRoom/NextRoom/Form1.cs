@@ -63,7 +63,13 @@ namespace SquareCommand
             {
                 Random r = new Random();
                 //1) pak een getal van 0 tot de lengte van de array, gebruik de random hierboven
-              
+                int nextLevel = ???;
+
+                //2) gebruik het random getal om een level uit de levels te pakken
+                Level next = ???;
+                //3) zet current op het level wat op de index zit van het getal uit 2)
+
+                current = ???;
             }
             Invalidate();
         }
