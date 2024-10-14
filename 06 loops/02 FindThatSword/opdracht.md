@@ -14,7 +14,7 @@ We gaan nu kijken of we 1 item kunnen vinden in een array
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         -  maak hier een for loop, die over inventory loopt

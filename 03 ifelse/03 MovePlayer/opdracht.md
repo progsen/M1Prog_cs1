@@ -9,7 +9,7 @@
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - bekijk deze code:
     ```CSharp
         player.x += playerSpeed * frametime;//speler naar rechts

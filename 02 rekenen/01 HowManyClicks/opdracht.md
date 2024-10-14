@@ -11,7 +11,7 @@ We gaan nu de meest simpele cookie clicker maken
 
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         - maak daar een variable (int met als naam clicks)

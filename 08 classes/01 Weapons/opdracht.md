@@ -15,7 +15,7 @@ we gaan nu classes gebruiken om verschillende weapons te maken, alle weapons gaa
     > ![](img/weapons.gif)
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
         - zorg ervoor dat alle 4 de wapens verschillende plaatjes uit weaponSprites gebruiken

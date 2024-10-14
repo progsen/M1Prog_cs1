@@ -17,7 +17,7 @@ We gaan nu een applicatie maken waar je op kaarten kan clicken om ze om te draai
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         -  maak daar een for loop, die over cards loopt

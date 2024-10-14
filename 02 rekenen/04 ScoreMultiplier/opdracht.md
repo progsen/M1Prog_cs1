@@ -19,7 +19,7 @@ nu willen we multipliers maken
 ## 1)
 
          
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         -  pas de multiplier aan:
@@ -28,7 +28,7 @@ nu willen we multipliers maken
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
         - verander de score += 2:

@@ -6,7 +6,7 @@
 - open de solution `FunctionUse.sln`
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
     - gebruik nu de FillRectangle function
@@ -15,7 +15,7 @@
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 2)
     - maak nu zelf nog een vierkant
@@ -23,7 +23,7 @@
 
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 3)
     - maak de driehoek af door nog een lijn tekenen
@@ -32,7 +32,7 @@
             - 150, 50
 ## 4)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 4)
     - zoek nu zelf uit hoe je een circle tekent

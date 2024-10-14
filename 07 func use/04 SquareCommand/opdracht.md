@@ -13,7 +13,7 @@
 - bekijk Square.cs
     - lees de 4 Move... functions
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
 - vervang beide ???? met 1 van de 4 Move functions van player
@@ -33,7 +33,7 @@
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 2)
 - blijf Move calls toevoegen totdat:

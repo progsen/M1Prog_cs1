@@ -20,7 +20,7 @@ Als de speler uit het scherm loopt willen we dat die aan de andere kant weer ver
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         -  maak van int een byte
@@ -32,7 +32,7 @@ Als de speler uit het scherm loopt willen we dat die aan de andere kant weer ver
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) zorg hier nu dat zowel de x als de y bestuurd kunnen worden
         - pas de code aan

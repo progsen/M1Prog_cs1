@@ -36,7 +36,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
     - zoek uit waarom de speler weer naar boven gaat

@@ -19,21 +19,21 @@ Alleen er gebeurt er nog niets
 ## 1)
 
          
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         - tel daar 1 bij de score variable op
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
         - tel daar 5 bij de score variable op
   
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //3)           
         - tel daar iets bij de score variable op
@@ -43,7 +43,7 @@ Alleen er gebeurt er nog niets
                 //4) haal hieronder iets van de score af
 ## 4)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //4)           
         - tel daar iets van de score af

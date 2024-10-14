@@ -8,14 +8,14 @@
 
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
     - vervang de ??? door het type wat daar nodig is
         > hint: kijk wat er in hoort te zitten, dat kan je zien!
 
 ## 2)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) zet daar nog 4 andere marios neer
 

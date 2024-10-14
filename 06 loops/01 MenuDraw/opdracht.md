@@ -21,7 +21,7 @@ die willen we tekenen op het scherm
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         -  maak daar een for loop, die over menu loopt

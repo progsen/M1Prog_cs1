@@ -19,7 +19,7 @@ dat kunnen we met een IF tegenhouden
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         - maak daaronder een variable:
@@ -29,7 +29,7 @@ dat kunnen we met een IF tegenhouden
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
         - maak daaronder een variable:
@@ -39,7 +39,7 @@ dat kunnen we met een IF tegenhouden
   
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //3)           
         - gebruik een If om te kijken of de playerBottom < ground

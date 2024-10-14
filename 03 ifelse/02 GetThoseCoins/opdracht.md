@@ -19,7 +19,7 @@ de speler moet de coins kunnen pakken en binnen het scherm blijven
 
 ## 1)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         - maak hier een if statement
@@ -28,7 +28,7 @@ de speler moet de coins kunnen pakken en binnen het scherm blijven
             - zet die in de {} van de if
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
         - maak hier een if statement
@@ -38,7 +38,7 @@ de speler moet de coins kunnen pakken en binnen het scherm blijven
   
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //3)     
         - maak hier een if statement:
@@ -49,7 +49,7 @@ de speler moet de coins kunnen pakken en binnen het scherm blijven
 
 ## 4)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //4)     
         - de speler kan nog buiten het scherm komen!!! los dat met een if op.

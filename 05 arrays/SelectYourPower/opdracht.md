@@ -16,31 +16,31 @@
             - dan gebruik je al je power
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
         - reset de waarde van de powerCount variable naar: -1
 
 ## 2)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //2) 
         - tel 1 bij de powerCount op ;
 
 ## 3)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //3)  
         - check of de powerCount waarde groter is dan de powerups lengte min 1
 ## 4)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //4)  
         - maak de code af:
             - zorg dat je de huidige powerUp string pakt uit powerUps, gebruik i
 
 ## 5)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //5) 
         - maak de code af:

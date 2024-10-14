@@ -7,7 +7,7 @@
 - open de solution `RpgBattleV2.sln`
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
     - doe het volgende:
@@ -18,7 +18,7 @@
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 2)
     - doe het volgende:
@@ -27,7 +27,7 @@
 
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 2)
     - lees deze uitleg:

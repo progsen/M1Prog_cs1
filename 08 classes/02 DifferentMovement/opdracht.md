@@ -15,7 +15,7 @@ we gaan nu de bullet en weapons classes uitbreiden zodat we elke kogel een apart
     > ![](img/direction.gif)
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
         - zorg ervoor dat alle 4 de wapens verschillende plaatjes uit weaponSprites gebruiken

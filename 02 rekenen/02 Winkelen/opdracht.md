@@ -22,7 +22,7 @@ alleen we kunnen het totaal nog niet berekenen
 ## 1)
 
          
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - //1) 
         - reken daar de totaal prijs uit

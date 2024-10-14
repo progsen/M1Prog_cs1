@@ -7,7 +7,7 @@
 - open de solution `RpgBattle.sln`
 
 ## 1)
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 1)
     - maak daar een nieuwe function:
@@ -18,7 +18,7 @@
 
 ## 2)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 2)
     - zet de code hieronder tussen de {} (de body of scope van de function)
@@ -27,14 +27,14 @@
 
 ## 3)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 3)
     - vervang de ??? met een variable
         - zorg dat je daar playerAttack gebruikt
 ## 4)
 
-- open `Form1.cs`
+- open `Form1.cs` (rechter muis -> view code)
 - zoek:
     - // 4)
     - vervang de ??? met een variable
