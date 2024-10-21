@@ -31,7 +31,7 @@ namespace DifferentMovement
             Rectangle[] weaponSprites = CreateWeaponSprites();
 
 
-            //1) zorg ervoor dat alle 4 de wapens verschillende plaatjes uit weaponSprites gebruiken
+            //1) zorg ervoor dat je bij een aantal van de weapons, een DirectionalMover gebruikt. Stel ook de X en Y van de mover in
             weapons = new Weapon[4] {
                 new Weapon( "red bolt",weaponSprites[0],new StraightBulletMover()),
                 new Weapon( "lazer",weaponSprites[0],new StraightBulletMover()),
@@ -118,7 +118,6 @@ namespace DifferentMovement
             {
                 Bullet bullet = bullets[i];
                 bullet.mover.MoveBullet(bullet, frametime);
-                //bullet.gameObject.position.x += bullet.speed * frametime;
                 if (ClientRectangle.Contains((int)bullet.gameObject.position.x, (int)bullet.gameObject.position.y) == false)//picked up by player 
                 {
                     bullets.RemoveAt(i);

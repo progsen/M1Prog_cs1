@@ -17,8 +17,9 @@ we gaan nu de bullet en weapons classes uitbreiden zodat we elke kogel een apart
 ## 1)
 - open `Form1.cs` (rechter muis -> view code)
 - zoek:
-    - // 1)
-        - zorg ervoor dat alle 4 de wapens verschillende plaatjes uit weaponSprites gebruiken
+    - //1) 
+        - zorg ervoor dat je bij een aantal van de weapons, een DirectionalMover gebruikt. 
+            - Stel ook de X en Y van de mover in
 
 ## testen
 
@@ -27,17 +28,6 @@ we gaan nu de bullet en weapons classes uitbreiden zodat we elke kogel een apart
     - wapens wisselen
 - run de applicatie
     - test of nu aparte plaatjes per wapen hebt
-
-## 2)
-
-- maak er nu een vijfde wapen bij
-- test je aanpassingen
-
-
-## 3)
-- zorg dat de verschillende wapens, kogels met andere snelheden hebben
-- test je aanpassingen
-
 
 ## klaar
 
