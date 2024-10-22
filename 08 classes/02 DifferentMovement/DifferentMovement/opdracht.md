@@ -1,4 +1,4 @@
-
+##
 
 ## DifferentMovement
 
@@ -28,6 +28,11 @@ we gaan nu de bullet en weapons classes uitbreiden zodat we elke kogel een apart
     - wapens wisselen
 - run de applicatie
     - test of nu aparte plaatjes per wapen hebt
+
+## Extra:
+
+- probeer er nog een Mover bij te maken:
+    - 1 die de kogel in een golf naar voren schiet
 
 ## klaar
 
