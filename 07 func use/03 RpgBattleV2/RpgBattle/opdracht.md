@@ -12,7 +12,7 @@
     - // 1)
     - doe het volgende:
     - maak daar een nieuwe function:
-        - naam: `updateMonsterHealth`
+        - naam: `UpdateMonsterHealth`
         - gebruik `private` en `void`
         - zet de code die onder `2)` staat tussen de {} (de body)
 
@@ -23,7 +23,7 @@
     - // 2)
     - doe het volgende:
     - vervang de code onder `//2)` met een function call naar de nieuwe function
-        - `updateMonsterHealth`
+        - `UpdateMonsterHealth`
 
 ## 3)
 
@@ -33,7 +33,7 @@
     - lees deze uitleg:
     > de code onder `3)` was ook dubbel, dat willen we niet
     - gebruik nu onder `3)` ook de function:
-        - `updateMonsterHealth`
+        - `UpdateMonsterHealth`
     - haal de dubbele code weg
             
 ## klaar

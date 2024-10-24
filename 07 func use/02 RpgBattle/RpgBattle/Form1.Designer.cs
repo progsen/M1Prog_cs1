@@ -32,7 +32,7 @@
             fireball = new Button();
             playerchar = new Panel();
             monster = new Panel();
-            monsterhealth = new Label();
+            monsterHealthLabel = new Label();
             monstername = new Label();
             SuspendLayout();
             // 
@@ -70,14 +70,14 @@
             monster.Size = new Size(200, 100);
             monster.TabIndex = 3;
             // 
-            // monsterhealth
+            // monsterHealthLabel
             // 
-            monsterhealth.AutoSize = true;
-            monsterhealth.Location = new Point(588, 141);
-            monsterhealth.Name = "monsterhealth";
-            monsterhealth.Size = new Size(18, 15);
-            monsterhealth.TabIndex = 4;
-            monsterhealth.Text = "-1";
+            monsterHealthLabel.AutoSize = true;
+            monsterHealthLabel.Location = new Point(588, 141);
+            monsterHealthLabel.Name = "monsterHealthLabel";
+            monsterHealthLabel.Size = new Size(18, 15);
+            monsterHealthLabel.TabIndex = 4;
+            monsterHealthLabel.Text = "-1";
             // 
             // monstername
             // 
@@ -94,7 +94,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(monstername);
-            Controls.Add(monsterhealth);
+            Controls.Add(monsterHealthLabel);
             Controls.Add(monster);
             Controls.Add(playerchar);
             Controls.Add(fireball);
@@ -111,7 +111,7 @@
         private Button fireball;
         private Panel playerchar;
         private Panel monster;
-        private Label monsterhealth;
+        private Label monsterHealthLabel;
         private Label monstername;
     }
 }

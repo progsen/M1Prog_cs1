@@ -23,7 +23,7 @@
     - // 2)
     - zet de code hieronder tussen de {} (de body of scope van de function)
     - monsterHealth -= damage;
-    - monsterhealth.Text = monsterHealth.ToString();
+    - monsterHealthLabel.Text = monsterHealth.ToString();
 
 ## 3)
 
