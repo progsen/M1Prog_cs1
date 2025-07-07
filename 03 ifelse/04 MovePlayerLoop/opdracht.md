@@ -19,7 +19,7 @@ We gaan nu met een ifelse ervoor zorgen dat de speler niet uit het scherm loopt
 - open `Form1.cs` (rechter muis -> view code)
 - ga naar `internal void DoLogic(float frametime)`
     - zet nu een if erbij:
-        - ALS de player.x KLEINER DAN 0 zet die dan op ClientSize.Width
+        - ALS de player.x KLEINER DAN 0 zet die dan op ClientSize.Width/size
 - Lees:
 ```
 ClientSize is hoe groot het window is, deze heeft ook een Height
