@@ -1,4 +1,6 @@
 
+## start
+
 - maak in die `M1Prog_cs1`  een nieuwe directory:
     - `01_rekenen`
 - maak in die directory een nieuwe directory:
@@ -26,17 +28,6 @@
 - run en test even of het werkt
     > ![](img/test.PNG)
 
-## begrijpen
-
-- lees:
-    ```
-    hier hebben we een nieuw stukje met strings:
-    - $"je bent nu {leeftijdStudent}"
-    1) wat hier gebreurt is dat we met het dollar teken $ aangeven dat we variabelen in de string willen kunnen zetten
-    2) met {} geven we aan dat we daar wat willen invullen
-    3) tussen de {} zetten we dan bijvoorbeeld een variable om om te zetten naar string en in de string te plakken 
-    ```
-
 ## +1 jaar
 
 - we zetten nu BOVEN de console writeline een berekening die leeftijdStudent aanpast:
@@ -59,3 +50,15 @@
 - run en check:
 
     > ![](img/17.PNG)
+
+
+    
+#### GIT
+
+als je een opdracht af hebt:
+- commit naar je github voor dit vak!
+    > (commit & push), zie de `03 commit.md` oefening
+
+## klaar?
+
+- commit & push naar je git!
