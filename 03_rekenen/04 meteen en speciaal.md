@@ -2,7 +2,7 @@
 ## start
 
 - maak in die `M1Prog_cs1`  een nieuwe directory:
-    - `01_rekenen`
+    - `03_rekenen`
 - maak in die directory een nieuwe directory:
     - `operators`
 - maak een nieuw dotnet project aan
@@ -95,8 +95,4 @@ je kan dus ook +=10, om 10 bij de variabel op te tellen
 ## Klaar?
 
 - git add .
-- git status
-    - staan de `bin` en `obj` er tussen?
-        - dan is je `.gitignore` niet goed
-            - `fix` dat!
 - commit naar je repo voor dit vak

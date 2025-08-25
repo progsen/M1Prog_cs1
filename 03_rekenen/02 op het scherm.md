@@ -16,7 +16,7 @@
 ## oefenen
 
 - ga naar je rekenen directory in je terminal van visual studio code:
-    - `01_rekenen`
+    - `03_rekenen`
 - maak in die directory een nieuwe directory:
     - `output`
 

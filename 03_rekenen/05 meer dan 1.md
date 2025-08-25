@@ -3,7 +3,7 @@
 
 
 - maak in die `M1Prog_cs1`  een nieuwe directory:
-    - `01_rekenen`
+    - `03_rekenen`
 - maak in die directory een nieuwe directory:
     - `enterplus`
 - maak een nieuw dotnet project aan
@@ -42,8 +42,4 @@
 ## Klaar?
 
 - git add .
-- git status
-    - staan de `bin` en `obj` er tussen?
-        - dan is je `.gitignore` niet goed
-            - `fix` dat!
 - commit naar je repo voor dit vak
