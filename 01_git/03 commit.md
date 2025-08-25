@@ -22,7 +22,9 @@
         > m1prog initial commit
 
 - click op commit
-- waarschijnlijk krijg je een commit
+- click op sync
+- waarschijnlijk krijg je een sign in venster
+    - zoek uit hoe je dit moet doen en commit!
 
     
 ## checken
