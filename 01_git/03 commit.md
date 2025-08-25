@@ -24,7 +24,10 @@
 - click op commit
 - click op sync
 - waarschijnlijk krijg je een sign in venster
-    - zoek uit hoe je dit moet doen en commit!
+    > ![](img/auth.PNG)
+    - soms verstopt het venster zich, check je taakbalk!
+        > ![](img/verstopt.PNG)
+    - zorg dat je authenticate en dat alles in github komt
 
     
 ## checken
