@@ -16,17 +16,17 @@
     - maak een `.gitignore` file 
         > tip gebruik visual studio code om een nieuwe file aan te maken
         - zet daar het volgende in:
-```
-**bin
-**obj
-**.vs
-**packages
-**/csproj.user
-```
+            ```
+            **bin
+            **obj
+            **.vs
+            **packages
+            **/csproj.user
+            ```
 > !!! Let op dat er geen spaties en tabs voor de ** staan
 
 - maak in die `M1Prog_cs1`  een nieuwe directory:
-    - `00_start`
+    - `00_install_en_project`
 - maak in die directory een nieuwe directory:
     - `consoleproject`
 
@@ -43,12 +43,12 @@
 ## eerste project
 
 - lees:
-```
-.net heeft veel verschillende project types, laten we met de meest simpele beginnen:
-- het console project
-dit is om even de commandline te leren kennen
+    ```
+    .net heeft veel verschillende project types, laten we met de meest simpele beginnen:
+    - het console project
+    dit is om even de commandline te leren kennen
 
-```
+    ```
 
 - in je terminal in je `consoleproject` directory:
     - type `dotnet new console --use-program-main`

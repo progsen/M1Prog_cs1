@@ -1,7 +1,7 @@
 
 ## start
 
-- maak in die `M1Prog_cs1`  een nieuwe directory:
+- maak in de `M1Prog_cs1` een nieuwe directory:
     - `03_rekenen`
 - maak in die directory een nieuwe directory:
     - `plus`

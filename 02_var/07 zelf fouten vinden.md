@@ -2,7 +2,10 @@
 
 ## nieuw project
 
-- maak in die `M1Prog_cs1`  een nieuwe directory:
+
+- ga naar je deze directory in je terminal van visual studio code::
+    - `02_var`
+- maak in die directory een nieuwe directory:
     - `fouten`
 - open een terminal in die directory
 - maak een nieuwe console project

@@ -1,10 +1,21 @@
-## Program.cs
-   
-    
-## ignore
-- open je `M1Prog_cs1` directory in visual studio code
-    - open program.cs
-        > ![](img/program.PNG)
+
+## start
+
+- maak in die `M1Prog_cs1`  een nieuwe directory:
+    - `02_var`
+- maak in die directory een nieuwe directory:
+    - `stringvar`
+
+## terminal openen met visual studio code
+
+- rechter muis click op `stringvar`
+    - click op 'open in intergrated terminal'
+        - je ziet nu een terminal
+
+
+- in je terminal in je `stringvar` directory:
+    - type `dotnet new console --use-program-main`
+        > ![](img/newconsole.PNG)
 
 ## String
 

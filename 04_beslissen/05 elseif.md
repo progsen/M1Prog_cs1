@@ -2,7 +2,7 @@
     
 ## start
 
-- maak in die `M1Prog_cs1`  een nieuwe directory:
+- ga naar je deze directory in je terminal van visual studio code::
     - `04_beslissen`
 - maak in die directory een nieuwe directory:
     - `alsdan`

@@ -1,7 +1,10 @@
 
-## nieuw project
 
-- maak in die `M1Prog_cs1`  een nieuwe directory:
+## start
+
+- ga naar je deze directory in je terminal van visual studio code:
+    - `02_var`
+- maak in die directory een nieuwe directory:
     - `variableopdracht1`
         > ![](img/newdir.PNG)
     
@@ -9,7 +12,6 @@
 ## terminal openen met visual studio code
 
 - kijk naar je explore window van visual studio code
-    > ![](img/explorer.PNG)
     - rechter muis click op `variableopdracht1`
         - click op 'open in intergrated terminal'
             - je ziet nu een terminal, controlleer of je in de goede directory zit
