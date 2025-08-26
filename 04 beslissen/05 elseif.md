@@ -1,3 +1,5 @@
+
+    
 ## start
 
 - maak in die `M1Prog_cs1`  een nieuwe directory:
@@ -38,14 +40,27 @@ de haakjes horen bij de if
 ```
 
 - maak het programma met animaties.
-    - gebruik een boolean voor of de speler springt
-    - gebruik een boolean voor of de speler loopt/beweegt
+    - gebruik een boolean variabel voor of de speler springt
+    - gebruik een boolean variabel voor of de speler loopt/beweegt
     - zet de animatie op het scherm als string
+
 
 ## test
 
+- zorg dat je alle opties test
+    - als je zelf de variabelen kan veranderen (met console readline) dan test het makkelijker
+        > ![](img/jumptest.PNG)
 
 
+## virtual pet
+
+- open je of oefening met het virtuele huisdier
+- breidt het programma uit met:
+    - 2 extra stukken fruit
+    - die kan het dier eten
+    - als je die voert zegt het dier:
+        > CHOMP
+    - je hebt dus een extra else if nodig
 
 ## Klaar?
 
