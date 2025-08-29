@@ -8,8 +8,7 @@
 
 ## ignore
 - open je `M1Prog_cs1` directory in visual studio code
-    - open program.cs
-        > ![](img/program.PNG)
+    - open program.cs in de directory codeplek die je net gemaakt had
 
 ## terminal openen met visual studio code
 

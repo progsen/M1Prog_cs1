@@ -6,53 +6,44 @@
     - `05_collecties`
 - maak in die directory een nieuwe directory:
     - `direct`
-    > ![](img/arrayout.PNG)
 
 ## array maken
 
-- we maken nu 1 array:
-    - een double array met de naam brutoSalarissen
-    - zet er deze waardes in:
-        > ![](img/salaris.PNG)
-    
-- we maken nu 2de array:
-    - een double array met de naam nettoSalarissen
-    - geef deze de lengte 3, maar stop er geen waardes in
-
-
-## belasting
-- bekijk deze belasting tarieven:
-    > ![](img/schijven.PNG)
+- maak nu weer array van het type double:
+    > ![](img/perc.PNG)
+- zet er 6 variabelen in
 
 - lees:
-    ```
-    - belasting uitrekenen is lastiger dan we het nu gaan doen
-    - wij nemen alleen even het percentage van de schijf, wat dus niet klopt na de eerste schijf!
+```
+even ter herhaling:
+om bij de waarde van een variable in een array te komen zetten we bijvoorbeel [0] achter de naam van de array:
 
-    ```
+char[] letters = new char[]{'a','b','c'};
+letters[0]; //dit wordt dan de 'a'
+```
 
-## uitrekenen
-- we gaan nu rekenen:
-    > ![](img/nettobruto.PNG)
-    - lees de code goed!! 
-        - snap je wat we hier doen? we rekenen het overgebleven stuk van de 1ste belastingschijf uit
+## direct op het scherm
 
-- schrijf het nettoSalaris van de eerste persoon naar het scherm:
-    > ![](img/directout.PNG)
+- gebruik dit code voorbeeld:
+    > ![](img/directopscherm.PNG)
+- zet tussen de '{}' de naam van de array, en pak dan het eerste item:
+    > ik heb als eerste getal  0.80 dan krijg je:
+    > ![](img/eersteitem.PNG)
 
-    > ![](img/over.PNG)
+- zet nu alle 6 items op het scherm op dezelfde manier, vergeet niet de index en de noemer aan te passen!
+    > ![](img/lijstjeindexen.PNG)
 
-## direct
 - lees:
-    ```
-    - we halen dus met brutoSalarissen[0] direct de waarde op en gaan er direct mee rekenen
-    - daarna slaan we het resultaat op in nettoSalarissen[0] op
-    - en we gebruiken de waardes direct in de string die we op het scherm tonen
-    ```
-
-- reken nu de rest zelf uit!
-    > ![](img/over2.PNG)
-
+```
+dit is best veel werk, en we kunnen dit veel slimmer doen, maar dat komt in een van de volgende lessen
+- nu moeten we even GOED weten:
+    - wat het verschil is tussen
+        - de array als variable (int[] leeftijd = ...)
+        - en de variable die IN de array zit (leeftijd[0], of leeftijd[2] etc)
+    - HOE we bij de waardes van de variabel IN de array komen
+    - DAT de waarde van een array een LIJST aan variabelen is
+    - waar [] gebruikt wordt en waarom
+```
 ## Klaar?
 
 - git add .

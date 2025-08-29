@@ -69,6 +69,15 @@
 
 - gebruik console.writeline om temp op het scherm te zetten
 
+- lees:
+    ```
+    we gebruiken hier een tijdelijke variable
+    - waarom is deze tijdelijk? dat heeft te maken met scope, niet met de naam
+        - een variable die tijdelijk heet, kan nog steeds niet tijdelijk zijn
+    - we maken dus even een nieuwe variable om even tijdelijk iets mee te doen (rekenen, bewaren etc)
+        - en daarna hebben we die niet meer nodig
+        
+    ```
 ## volgende
 
 - we pakken nu de volgende, we gebruiken temp nog een keer
