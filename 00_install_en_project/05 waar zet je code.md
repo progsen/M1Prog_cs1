@@ -20,7 +20,7 @@
 
 ## tweede project
 
-- in je terminal in je `consoleproject` directory:
+- in je terminal in je `codeplek` directory:
     - type `dotnet new console --use-program-main`
         > ![](img/newconsole.PNG)
 
