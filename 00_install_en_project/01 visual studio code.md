@@ -18,10 +18,3 @@ Ga naar:
 - start visual studio code op
     > wij noemen visual studio code ook vaak code
 
-
-## dotnet sdk 
-
-- ga naar:
-    > https://dotnet.microsoft.com/en-us/download
-
-- download en installeer de sdk van dot net 9

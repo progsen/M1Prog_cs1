@@ -13,7 +13,7 @@
 ## terminal openen met visual studio code
 
 - kijk naar je explore window van visual studio code
-    > ![](img/explorer.PNG)
+    > ![](img/codeplek.PNG)
     - rechter muis click op `codeplek`
         - click op 'open in intergrated terminal'
             - je ziet nu een terminal, en je bent in de goede directory
