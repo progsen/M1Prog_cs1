@@ -12,7 +12,7 @@
 > `sdk` staat voor `software developers kit`
 
 Ga naar:
-- https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+- https://dotnet.microsoft.com/en-us/download/dotnet
 
 - installeer de SDK 9.0.x (hoogste) voor jouw systeem
     - voor windows zal dat de x64 versie zijn
