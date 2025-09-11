@@ -54,4 +54,4 @@
 
 - open nu de extra folder
     - zoek de 'HIDDEN' .git folder
-    - verplaats de .git folder en de readme.md naar 
+    - verplaats de .git folder en de readme.md naar je M1PROG_CS hoofd folder
