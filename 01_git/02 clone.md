@@ -1,4 +1,11 @@
 
+## Git installeren
+
+- download https://git-scm.com/downloads/win
+
+    - let op bij de installatie:
+        - zet de default editor van VIM naar notepad
+        - zet de default branch name op main
 
 ## Folder openen
 
@@ -42,3 +49,9 @@
 
 - nu krijg je een extra folder
 - kijk of daar de readme.md hebt staan die je door github hebt laten maken
+
+## .git folder
+
+- open nu de extra folder
+    - zoek de 'HIDDEN' .git folder
+    - verplaats de .git folder en de readme.md naar 

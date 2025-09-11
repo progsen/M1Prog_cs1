@@ -18,3 +18,13 @@ Ga naar:
 - start visual studio code op
     > wij noemen visual studio code ook vaak code
 
+
+## instellingen
+
+- open visual studio code
+- open je preferences->settings
+    - zit onder FILE of CODE
+- zorg dat visual studio fullscreen is
+    - open features->explorer
+        - vink collapse folders uit
+            > ![](img/collapse.PNG)
