@@ -38,8 +38,3 @@
 - controlleer je resultaat
     > ![](img/entersplus.PNG)
 
-
-## Klaar?
-
-- git add .
-- commit naar je repo voor dit vak

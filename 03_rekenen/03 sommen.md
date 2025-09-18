@@ -27,7 +27,3 @@
 - controlleer je antwoorden:
     > ![](img/somresultaat.PNG)
     
-## Klaar?
-
-- git add .
-- commit naar je repo voor dit vak

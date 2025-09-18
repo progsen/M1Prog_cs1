@@ -92,7 +92,3 @@ je kan dus ook +=10, om 10 bij de variabel op te tellen
     - een float met een waarde
         - deel die door een getal met /=
         - zet het resultaat op het scherm
-## Klaar?
-
-- git add .
-- commit naar je repo voor dit vak

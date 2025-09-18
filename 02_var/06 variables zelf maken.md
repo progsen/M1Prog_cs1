@@ -62,12 +62,3 @@ hier komt de opdracht
 ```
 
 - maak nu de opdracht!
-
-## Klaar?
-
-- git add .
-- git status
-    - staan de `bin` en `obj` er tussen?
-        - dan is je `.gitignore` niet goed
-            - `fix` dat!
-- commit naar je repo voor dit vak
