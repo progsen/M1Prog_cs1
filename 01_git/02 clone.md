@@ -53,5 +53,15 @@
 ## .git folder
 
 - open nu de extra folder
+    - kijk naar dit plaatje:
+        > ![](img/verstoptgit.PNG)
+        >- zie je dat de .git folder een beetje doorzichtig is?
+        >   - dit is een hidden file
     - zoek de 'HIDDEN' .git folder
+        > HINT: windows/linux/mac os verstoppen sommige files, dit is een optie
     - verplaats de .git folder en de readme.md naar je M1PROG_CS hoofd folder
+        - van:
+        > ![](img/verplaats1.PNG)
+        - naar:
+        > ![](img/verplaats2.PNG)
+        
