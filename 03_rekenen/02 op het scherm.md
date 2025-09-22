@@ -27,7 +27,7 @@
             - je ziet nu een terminal
 
 
-- in je terminal in je `plus` directory:
+- in je terminal in je `output` directory:
     - type `dotnet new console --use-program-main`
 
 
