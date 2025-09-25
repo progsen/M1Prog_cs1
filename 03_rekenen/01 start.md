@@ -52,9 +52,3 @@
     > ![](img/17.PNG)
 
 
-    
-#### GIT
-
-als je een opdracht af hebt:
-- commit naar je github voor dit vak!
-    > (commit & push), zie de `03 commit.md` oefening

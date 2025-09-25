@@ -59,9 +59,3 @@
 
 - maak nu zelf een zin erbij die 2 variabelen in een string zet en op het scherm toont
 
-
-#### GIT
-
-als je een opdracht af hebt:
-- commit naar je github voor dit vak!
-    > (commit & push), zie de `03 commit.md` oefening
