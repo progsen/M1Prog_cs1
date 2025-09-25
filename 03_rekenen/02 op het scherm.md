@@ -22,7 +22,7 @@
 
 ## terminal openen met visual studio code
 
-    - rechter muis click op `plus`
+    - rechter muis click op `output`
         - click op 'open in intergrated terminal'
             - je ziet nu een terminal
 
