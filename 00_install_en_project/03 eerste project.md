@@ -22,6 +22,7 @@
             **.vs
             **packages
             **/csproj.user
+            .DS_Store
             ```
 > !!! Let op dat er geen spaties en tabs voor de ** staan
 
