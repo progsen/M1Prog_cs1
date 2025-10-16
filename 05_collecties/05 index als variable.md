@@ -37,7 +37,7 @@
 ## gekozen character
 
 - we gaan nu het gekozen character pakken gebruik deze code:
-
+    > ![](img/keuzecode.PNG)
 - zet de keuze op het scherm!
     - test je programma:
         > ![](img/mario.PNG)
