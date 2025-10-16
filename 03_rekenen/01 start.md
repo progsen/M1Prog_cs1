@@ -15,7 +15,6 @@
 
 - in je terminal in je `plus` directory:
     - type `dotnet new console --use-program-main`
-        > ![](img/newconsole.PNG)
 
 ## plus
 
@@ -38,7 +37,7 @@
     int nummerVariable=0; //we starten op 0
 
     // we rekenen tellen 0 + 1 uit, EN DAN zetten we het resultaat (1) in nummervariable met de = 
-    nummerVariabel = nummerVariabel + 1;
+    nummerVariable = nummerVariable + 1;
 
     ```
 
